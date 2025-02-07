@@ -61,7 +61,7 @@ async def handle_response(message_object: discord.Message, user_message: str):
 
     # Testing the bot
     if p_message == "?testing makoto":
-        return "Stfu braindead ass"
+        return "Stfu"
 
     # Testing the bot 2
     if p_message == "?":
